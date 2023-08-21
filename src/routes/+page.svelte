@@ -3,8 +3,8 @@
 </script>
 
 <div class="main">
-	<h1>TO DO APP</h1>
-	<p>Do add your daily dask and enjoy the process.</p>
+	<h1>Firebase Todo App</h1>
+	<p>Do add your daily task and manage your day.</p>
 	<ToDo />
 </div>
 
