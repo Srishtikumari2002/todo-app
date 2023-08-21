@@ -1,3 +1,13 @@
+# TO DO APP
+It is a simple to-do app using svelte and firebase to add and manage general to-do tasks.
+
+## Tech Stacks used
+* Sveltekit
+* Firebase
+* HTML
+* CSS
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
