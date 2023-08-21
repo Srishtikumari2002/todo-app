@@ -7,6 +7,9 @@ It is a simple to-do app using svelte and firebase to add and manage general to-
 * HTML
 * CSS
 
+  ![image](https://github.com/Srishtikumari2002/todo-app/assets/77767357/dbe9e4f0-96ae-4fbb-8f35-55bc84bc5027)
+
+
 
 # create-svelte
 
